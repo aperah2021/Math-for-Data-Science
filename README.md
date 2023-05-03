@@ -8,3 +8,5 @@ The aim of this project is to develop a deep learning model that can accurately 
 ![image](https://user-images.githubusercontent.com/122607881/235988578-a5f91a65-f29b-443f-a769-99e255119e9c.png)
 ![image](https://user-images.githubusercontent.com/122607881/235988949-3f333eb9-1dc1-4ca1-af24-a070c0aa230e.png)
 ![image](https://user-images.githubusercontent.com/122607881/235989076-824ce756-1cb1-4316-aeed-a7f8408803e2.png)
+
+https://docs.google.com/presentation/d/1PKLSNLQhR7PCQOuYk3KAhRz6aPoU6YADUbJBioaxTV4/edit?usp=sharing
