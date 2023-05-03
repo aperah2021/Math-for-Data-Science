@@ -10,3 +10,4 @@ The aim of this project is to develop a deep learning model that can accurately 
 ![image](https://user-images.githubusercontent.com/122607881/235989076-824ce756-1cb1-4316-aeed-a7f8408803e2.png)
 
 [Slides] https://docs.google.com/presentation/d/1PKLSNLQhR7PCQOuYk3KAhRz6aPoU6YADUbJBioaxTV4/edit?usp=sharing
+[Presentation]
